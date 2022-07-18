@@ -1,12 +1,8 @@
-**[重构视频详细讲解地址，戳我进入，三连感谢](https://www.bilibili.com/video/bv1KT4y1c7i1)**
-
-
-
-> 你好，欢迎来到阿里云83行代码大赛，以下是大赛4个关卡代码
+> 阿里云83行代码大赛
 >
-> [官方大赛页地址，戳我进入](https://college.devops.aliyun.com/)
+> [官方大赛页地址，点击进入](https://college.devops.aliyun.com/)
 >
-> [Java开发手册-嵩山版，戳我下载](https://developer.aliyun.com/topic/java20)
+> [Java开发手册-嵩山版，点击下载](https://developer.aliyun.com/topic/java20)
 
 
 
